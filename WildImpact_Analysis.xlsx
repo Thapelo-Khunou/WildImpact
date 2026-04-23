@@ -1,0 +1,85 @@
+# WildImpact Analysis
+
+## Sheet 1 - Database
+| Filename | Camera | Date       | Time  | Temp_C | Species      | Scientific_Name | Count | Confidence | Class      | Site      | Diel_Period | Is_Wildlife |
+|----------|--------|------------|-------|--------|--------------|------------------|-------|------------|------------|-----------|-------------|--------------|
+| ...      | ...    | ...        | ...   | ...    | ...          | ...              | ...   | ...        | ...        | ...       | ...         | ...          |  
+
+* Include all 72 records from Nyekweri and Okavango combined.
+
+## Sheet 2 - Summary_Statistics
+| Site       | Cameras_Count | Total_Detections | Species_Richness | Total_Individuals | Percent_High_Confidence | Date_Range |
+|------------|---------------|------------------|------------------|--------------------|--------------------------|------------|
+| Nyekweri  | ...           | ...              | ...              | ...                | ...                      | ...        |
+| Okavango   | ...           | ...              | ...              | ...                | ...                      | ...        |
+
+## Sheet 3 - Species_List
+| Species        | Nyekweri_Count | Okavango_Count |
+|----------------|-----------------|----------------|
+| ...            | ...             | ...            |
+
+## Sheet 4 - Camera_Details
+| Camera_ID | Site      | Latitude | Longitude | Total_Detections | Species_Richness |
+|------------|-----------|----------|-----------|------------------|-------------------|
+| CAM169    | Nyekweri | ...      | ...       | ...              | ...               |
+| CAM252    | Nyekweri | ...      | ...       | ...              | ...               |
+| CAM536    | Nyekweri | ...      | ...       | ...              | ...               |
+| CAM540    | Nyekweri | ...      | ...       | ...              | ...               |
+| CAM844    | Nyekweri | ...      | ...       | ...              | ...               |
+| CAM89     | Okavango | ...      | ...       | ...              | ...               |
+| CAM90     | Okavango | ...      | ...       | ...              | ...               |
+| CAM92     | Okavango | ...      | ...       | ...              | ...               |
+| CAM95     | Okavango | ...      | ...       | ...              | ...               |
+
+## Sheet 5 - Confidence_Distribution
+| Site       | High | Medium | Low | Unknown |
+|------------|------|--------|-----|---------|
+| Nyekweri  | ...  | ...    | ... | ...     |
+| Okavango  | ...  | ...    | ... | ...     |
+
+## Sheet 6 - Class_Breakdown
+| Site       | Mammal | Aves | Unknown |
+|------------|--------|------|---------|
+| Nyekweri  | ...    | ...  | ...     |
+| Okavango  | ...    | ...  | ...     |
+
+## Sheet 7 - Diel_Activity
+| Site       | Morning | Afternoon | Evening | Night |
+|------------|---------|-----------|---------|-------|
+| Nyekweri  | ...     | ...       | ...     | ...   |
+| Okavango  | ...     | ...       | ...     | ...   |
+
+## Sheet 8 - Monthly_Trend
+| Month | Nyekweri_Count | Okavango_Count |
+|-------|----------------|----------------|
+| ...   | ...            | ...            |
+
+## Sheet 9 - Hourly_Pattern
+| Hour | Nyekweri_Count | Okavango_Count |
+|------|----------------|----------------|
+| 0    | ...            | ...            |
+| 1    | ...            | ...            |
+| ...  | ...            | ...            |
+| 23   | ...            | ...            |
+
+## Sheet 10 - Temperature_vs_Count
+| Temp_C | Count |
+|--------|-------|
+| ...    | ...   |
+
+## Sheet 11 - Top_Species_by_Individuals
+| Site       | Species    | Count |
+|------------|------------|-------|
+| Nyekweri  | ...        | ...   |
+| Okavango  | ...        | ...   |
+
+## Sheet 12 - Camera_Species_Heatmap
+| Camera_ID | Species    | Count |
+|-----------|------------|-------|
+| CAM169    | ...        | ...   |
+| CAM252    | ...        | ...   |
+| ...       | ...        | ...   
+
+---
+* Keep all cell grids visible (standard Excel formatting), do not use white backgrounds that hide grids.
+* Make this self-contained and editable.
