@@ -1,0 +1,39 @@
+Filename,Camera,Date,Time,Temp,Species,Scientific Name,Count,Confidence,Class,Reasons
+DCIM22559.jpg,CAM169,2023/09/21,23:46:58,12°C,Bushpig,Potamochoerus larvatus,1,High,Mammal,
+DCIM22571.jpg,CAM169,2023/10/18,07:34:46,12°C,Cavendish's Dik-dik,Madoqua cavendishi,1,High,Mammal," Although confused with the Kirk's Dik-dik, I found that Cavendish's Dik-dik are found in the geolocation of the camera trap, the difference is where these animals are located and their size."
+DCIM23495.JPG,CAM169,2023/10/08,14:36:05,27°C,Impala,Aepyceros melampus,1,High,Mammal,
+DCIM23495.JPG,CAM169,2023/10/08,14:36:05,27°C,East African Eland,Tragelaphus oryx ssp. pattersonianus,1,Medium,Mammal,"It has skin hanging under the neck… it might not be quite clear, but its visible."
+DCIM23528.jpg,CAM169,2023/10/10,08:28:36,18°C,Impala,Aepyceros melampus,8,High,Mammal,
+DCIM24863.jpg,CAM169,2023/10/18,07:34:46,12°C,Cavendish's Dik-dik,Madoqua cavendishi,1,High,Mammal,
+DCIM24953.jpg,CAM169,2023/10/20,08:29:07,14°C,Impala,Aepyceros melampus,2,High,Mammal,
+DCIM25186.jpg,CAM169,2023/10/22,05:20:50,12°C,Soptted Hyena,Crocuta crocuta,1,High,Mammal,
+DCIM25186.jpg,CAM169,2023/10/22,05:20:50,12°C,Bushpig,Potamochoerus larvatus,1,High,Mammal,
+DCIM25193.jpg,CAM169,2023/10/22,05:23:35,12°C,Bushpig,Potamochoerus larvatus,1,High,Mammal,
+DCIM27680.jpg,CAM169,2023/11/15,09:23:55,20°C,Soptted Hyena,Crocuta crocuta,1,High,Mammal,
+DCIM24855.jpg,CAM169,2023/10/17,18:10:25,15°C,Crested Guineafowl,Guttera pucherani,6,Medium,Aves,"The one guineafowl in the middle has curly top hair, and when zoomed in properly, there are white spots on it."
+DCIM28806.JPG,CAM252,2023/09/25,03:46:35,10°C,Pangolin,Smutsia temminckii,1,High,Mammal,Its scales gave it away
+DCIM28817.JPG,CAM252,2023/09/25,19:12:24,15°C,Pangolin,Smutsia temminckii,1,High,Mammal,
+DCIM29317.JPG,CAM252,2023/10/13,15:32:14,21°C,Common Duiker,Sylvicapra grimmia,1,Medium,Mammal,
+DCIM29335.JPG,CAM252,2023/10/19,11:15:44,18°C,Common Duiker,Sylvicapra grimmia,1,Medium,Mammal,
+DCIM35815.JPG,CAM536,2023/10/29,19:31:25,16°C,Giant Pouched Rat,Cricetomys ansorgei,1,Medium,Mammal,It is larger than an average house rat and it has an unusually longer tail.
+DCIM35820.JPG,CAM536,2023/10/30,23:06:45,14°C,Aardvark,Orycteropus afer,1,High,Mammal,
+DCIM35876.JPG,CAM536,2023/11/24,14:09:27,21°C,Harvey's red Duiker,Cephalophorus harveyi,1,Medium,Mammal,
+DCIM187480.JPG,CAM536,2023/11/10,10:56:37,20°C,Harvey's red Duiker,Cephalophorus harveyi,1,Medium,Mammal,It is said that Harvey's Duiker have a reddish-brown coat compared to common Duikers
+DCIM161535.JPG,CAM536,2023/12/22,22:30:09,15°C,Kirk' Dik-dik,Madoqua kirkii,1,Medium,Mammal,It is difficult to pinpoint exactly which one it between Kirk's Dik-dik and Cavendish's Dik-dik. They are both common in the Masai Mara and the night vision image makes it hard to know based off colour.
+DCIM36063.JPG,CAM540,2023/09/22,21:34:33,15°C,Kirk' Dik-dik,Madoqua kirkii,1,Medium,Mammal,"The face is slightly elongated, has black marks next to the eyes, and a high rump."
+DCIM36064.JPG,CAM540,2023/09/22,21:34:33,15°C,Kirk' Dik-dik,Madoqua kirkii,1,Medium,Mammal,
+DCIM37317.JPG,CAM540,2023/10/17,05:46:06,15°C,Harvey's red Duiker,Cephalophorus harveyi,1,Medium,Mammal,There is a dark facial marking on its face extending from its snout to the forehead. It has horns and the ears are relatively larger and rounded.
+DCIM37631.JPG,CAM540,2023/10/24,03:42:32,15°C,Aardvark,Orycteropus afer,1,High,Mammal,"Even though the face is blurry and a bit distorted, the overall body shape of the animal is still an Aardvark."
+DCIM51632.JPG,CAM844,2021/01/19,17:07:19,22°C,Plains Zebra,Equus quagga,4,High,Mammal,
+DCIM51632.JPG,CAM844,2021/01/19,17:07:19,22°C,Olive Baboon,Papio anubis,2,High,Mammal,
+DCIM51636.JPG,CAM844,2021/01/19,17:07:34,22°C,Plains Zebra,Equus quagga,4,HIgh,Mammal,
+DCIM51636.JPG,CAM844,2021/01/19,17:07:34,22°C,Olive Baboon,Papio anubis,1,High,Mammal,
+DCIM51636.JPG,CAM844,2021/01/19,17:07:34,22°C,Domestic cattle,Bos taurus,2,High,Mammal,
+DCIM51757.JPG,CAM844,2021/01/21,15:17:41,24°C,Red-tailed Monkey,Cercopithecus ascanius,2,High,Mammal,
+DCIM51758.JPG,CAM844,2021/01/21,15:17:41,24°C,Red-tailed Monkey,Cercopithecus ascanius,2,High,Mammal,
+DCIM52001.JPG,CAM844,2021/01/27,11:29:08,26°C,Olive Baboon,Papio anubis,5,High,Mammal,
+DCIM52001.JPG,CAM844,2021/01/27,11:29:08,26°C,Plains Zebra,Equus quagga,3,High,Mammal,
+DCIM52265.JPG,CAM844,2021/01/30,14:16:44,22°C,Olive Baboon,Papio anubis,3,High,Mammal,
+DCIM52371.JPG,CAM844,2021/01/31,15:12:49,22°C,Plains Zebra,Equus quagga,2,High,Mammal,
+DCIM52371.JPG,CAM844,2021/01/31,15:12:49,22°C,Olive Baboon,Papio anubis,1,High,Mammal,
+DCIM52371.JPG,CAM844,2021/01/31,15:12:49,22°C,Domestic cattle,Bos taurus,15,High,Mammal,

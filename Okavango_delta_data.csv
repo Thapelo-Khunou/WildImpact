@@ -1,0 +1,33 @@
+Filename,Camera,Date,Time,Temp,Species,Scientific Name,Count,Confidence,Class,Reasons
+IMAG4536.JPG,CAM89,2024/04/24,08:12:57,16°C,Steenbok,Raphicerus campestris,1,Low,Mammal,Large ears… Common Duikers have small ears.
+IMAG4548.JPG,CAM89,2024/04/24,12:09:23,44°C,Southern Red-billed Hornbill,Tockus rufirostris,1,Medium,Aves,"Black body, white underside, and has a curved elongated beak pointing downwards. Want to say the Yellow-billed Hornbill, but I think the colour yellow would be visible in that light setting. "
+IMAG40599.JPG,CAM89,2024/05/24,04:45:49,48°C,Greater Kudu,Tragelaphus strepsiceros,2,High,Mammal,
+IMAG40621.JPG,CAM89,2024/05/24,17:18:27,32°C,Greater Kudu,Tragelaphus strepsiceros,1,High,Mammal,
+IMAG54628.JPG,CAM89,2024/06/24,07:17:06,6°C,Greater Kudu,Tragelaphus strepsiceros,1,High,Mammal,
+IMAG70260.JPG,CAM89,2024/07/12,22:04:46,8°C,Common Duiker,Sylvicapra grimmia,1,High,Mammal,Image taken seconds before IMAG70262.JPG was taken… Reasoning explained below.
+IMAG70262.JPG,CAM89,2024/07/12,22:04:49,8°C,Common Duiker,Sylvicapra grimmia,1,High,Mammal,"Duikers are common at night, and they have a longer/visible tail comaperd to Steenboks."
+IMAG70305.JPG,CAM89,2024/07/14,20:56:59,13°C,Steenbok,Raphicerus campestris,1,Low,Mammal,image taken a few seconds before IMAG70306.JPG was taken… Reasoning explained below.
+IMAG70306.JPG,CAM89,2024/07/14,20:57:01,13°C,Steenbok,Raphicerus campestris,1,Low,Mammal,"I am comapring this to the Duiker on IMAG70260.JPG, this animal is slightly larger (might be due to the diffrence in the distance between the animal and camera trap), but the ears are larger, which is one differentiating feature between the two animals."
+IMAG-TT-C90-2024_09_03-0199.JPG,CAM90,2024/09/02,00:29:25,14°C,Southern Aardwolf,Proteles cristatus,1,High,Mammal,
+IMAG-TT-C90-2024_09_03-0200.JPG,CAM90,2024/09/02,00:29:27,14°C,Southern Aardwolf,Proteles cristatus,1,High,Mammal,
+IMAG9337.JPG,CAM90,2024/04/20,18:00:02,37°C,Domestic cattle,Bos taurus,1,High,Mammal,
+IMAG9337.JPG,CAM90,2024/04/20,18:00:02,37°C,Red-billed oxpecker,Buphagus erythrorynchus,1,High,Aves,
+IMAG9609.JPG,CAM90,2024/04/09,09:59:31,33°C,Red-billed oxpecker,Buphagus erythrorynchus,2,High,Aves,
+IMAG9609.JPG,CAM90,2024/04/09,09:59:31,33°C,Domestic cattle,Bos taurus,5,High,Mammal,
+IMAG41166.JPG,CAM90,2024/06/01,01:41:18,10°C,Steenbok,Raphicerus campestris,1,High,Mammal,
+IMAG41169.JPG,CAM90,2024/06/01,08:01:55,15°C,Impala,Aepyceros melampus,1,High,Mammal,
+IMAG41175.JPG,CAM90,2024/06/01,21:36:25,17°C,Unknown Mammal,Unknown Mammal,1,Unknown Mammal,Mammal,I cannot identify this animal
+IMAG-TT-C92-2024_09_03-0410.JPG,CAM92,2024/08/13,20:08:42,20°C,Steenbok,Raphicerus campestris,1,High,Mammal,
+IMAG-TT-C92-2025_03_08-0399.JPG,CAM92,2025/03/02,19:53:33,29°C,Domestic cattle,Bos taurus,6,High,Mammal,
+IMAG30979.JPG,CAM92,2024/05/13,16:41:12,48°C,Black-faced Impala,Aepyceros melampus ssp. Petersi,7,High,Mammal,
+IMAG32073.JPG,CAM92,2024/05/17,07:11:51,3°C,Impala,Aepyceros melampus,1,Low,Mammal,"I am judging based off the size, shape, and colour of the animal."
+IMAG57885.JPG,CAM92,2024/06/13,13:14:05,44°C,Crested Francolin,Ortygornis sephaena,2,Medium,Aves,"From the images, I see white horizontal stripes. It’s the only bird on iNaturalist with that pattern in the area."
+IMAG57891.JPG,CAM92,2024/06/13,13:14:47,43°C,Crested Francolin,Ortygornis sephaena,2,Medium,Aves,
+IMAG69417.JPG,CAM92,2024/07/09,19:11:16,14°C,Unknown (False trigger),Unknown (False trigger),0,Medium,Unknown,I would assume this is one of those instances where wind blowing trees and bushes is being treated as movement by an animal by the camera.
+IMAG72912.JPG,CAM92,2024/07/22,17:12:00,45°C,Domestic cattle,Bos taurus,4,HIgh,Mammal,
+IMAG72918.JPG,CAM92,2024/07/22,17:13:51,44°C,Domestic cattle,Bos taurus,4,High,Mammal,
+IMAG0982.JPG,CAM95,2024/04/12,07:58:10,21°C,Leopard,Panthera pardus,1,High,Mammal,
+IMAG32381.JPG,CAM95,2024/05/09,12:09:19,36°C,Human,Homo sapiens,1,High,Mammal,
+IMAG33035.JPG,CAM95,2024/05/15,20:23:58,21°C,Steenbok,Raphicerus campestris,1,High,Mammal,
+IMAG62986.JPG,CAM95,2024/06/09,21:58:03,18°C,Southern African Wildcat,Felis lybica ssp. Cafra,1,HIgh,Mammal,"It has horizontal striped legs, only common in Southern African Wildcats."
+IMAG77722.JPG,CAM95,2024/07/27,01:06:56,8°C,Caracal,Caracal caracal,1,Medium,Mammal,"This one has pointy ears at the tips (tips also black in colour). It also has a plain coat. It could be the Wildcat again, but the ears make me doubt it. The reason a person will hardly find it on iNaturalist is because they are rarely seen by people and mostly nocturnal. "
